@@ -1,0 +1,59 @@
+src==> assets
+
+src==> Components ==>[
+
+]
+
+src==> ContextApi ==> [
+    AuthContext.js 
+    FoodContext.js
+]
+
+src==> layout ==> [
+    Main.js
+    AuthenticationLayout.js
+]
+
+src==> pages ==> AboutUS ==> [
+    AboutUS.js
+]
+
+src==> pages ==> Authentication ==>[
+    Register ==> Register.js
+    Login ==> Login.js
+]
+
+src==> pages ==> Blog ==>[
+    Blog.js
+]
+
+src==> pages ==> Cart ==>[
+    Cart.js
+]
+
+src==> pages ==> Chef ==>[
+    Chef.js
+]
+
+src==> pages ==>FontPage ==>[
+    FontPage.js
+]
+
+src==> pages ==> Order ==>[
+    Order.js
+]
+
+src==> pages ==> Route ==>[
+    PrivateRoute ==> PrivateRoute.js
+    Route.js
+]
+src==> pages ==> Shared ==>[
+    Header ==> Header.js
+    Footer ==> Footer.js
+    style.css(call app.js)
+]
+
+
+
+
+
