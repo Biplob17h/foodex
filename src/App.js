@@ -6,7 +6,7 @@ import Route from './pages/Route/Route';
 
 function App() {
   return (
-    <div className="max-w-screen-xl mx-auto cubor1 ">
+    <div className="max-w-screen-xl mx-auto ">
       <RouterProvider router={Route}></RouterProvider>
     </div>
   );

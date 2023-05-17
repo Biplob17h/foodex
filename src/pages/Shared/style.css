@@ -1,3 +1,17 @@
-.cubor1{
+.cubor1 {
     border: 1px solid red;
+}
+.ctext1 {
+    color: #19D3AE;
+}
+.ctext3 {
+    color: #80382c;
+}
+.cbtn1 {
+    transition: .7s;
+    
+}
+.cbtn1:hover {
+    background-color: #19D3AE;
+    color: white;
 }
