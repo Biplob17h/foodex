@@ -39,6 +39,14 @@ src==> pages ==>FontPage ==>[
     FontPage.js
 ]
 
+src==> pages ==>Home ==>[
+    WollcomeHome ==> WollcomeHome.js
+    Recently ==> Recently.js
+    MostPopular ==> MostPopular.js
+    FoodQuality ==> FoodQuality.js
+]
+
+
 src==> pages ==> Order ==>[
     Order.js
 ]

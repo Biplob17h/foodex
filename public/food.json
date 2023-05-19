@@ -1,0 +1,146 @@
+[
+    {
+        "_id" : 1,
+        "name": "Chop",
+        "category": [
+            "deep-fry"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Aloor-Chop-960x720.jpg.webp",
+        "price": "2",
+        "country": "bangladeshi",
+        "dis": "One of the biggest occasions in Bangladesh is the Muslim celebration of Ramadan. One of the most popular foods for iftar is Chop.",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 2,
+        "name": "Falooda",
+        "category": [
+            "ice-cream"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Falooda-1-960x960.jpg.webp",
+        "price": "10",
+        "country": "bangladeshi",
+        "dis": "Falooda is a well known cold dessert made by mixing rose syrup and sweet basil seeds with milk, noodles, ice cream, and vermicelli. ",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 3,
+        "name": "Bengali Mutton Curry",
+        "category": [
+            "meat",
+            "curry"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Mangshor-Jhol-960x960.jpg.webp",
+        "price": "15",
+        "country": "bangladeshi",
+        "dis": "Sunday afternoons are synonymous with Mutton Curry and Rice in any quintessential middle-class Bengali household",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 4,
+        "name": "Fish Curry",
+        "category": [
+            "fish",
+            "curry"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Macher-Jhol-2-960x800.jpg.webp",
+        "price": "10",
+        "country": "bangladeshi",
+        "dis": "Fish curry, or machha jhola, is a traditional spicy fish curry in Bengali and Odia cuisines in the eastern part of the Indian subcontinent.",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 5,
+        "name": "Aloo Posto",
+        "category": [
+            "potato"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Aloo-Posto-960x960.jpg.webp",
+        "price": "5",
+        "country": "bangladeshi",
+        "dis": "This is a traditional Bengali dish prepared using potatoes lightly spiced with poppy seed paste.",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 6,
+        "name": "Shorshe Ilish",
+        "category": [
+            "fish"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Shorshe-Ilish-960x960.jpg.webp",
+        "price": "15",
+        "country": "bangladeshi",
+        "dis": "A popular dish from the wetlands of Bengal, stretching across borders between India and Bangladesh",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 7,
+        "name": "Ilish Paturi",
+        "category": [
+            "fish"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Hilsa-Cooked-in-Banana-Leaf.jpg.webp",
+        "price": "10",
+        "country": "bangladeshi",
+        "dis": "Ilish Macher Paturi combines three of Bengal’s greatest loves – the Hilsa fish, the banana plant, and mustard.",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 8,
+        "name": "Aam Tel Ilish ",
+        "category": [
+            "fish"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Aam-Tel-Ilish-960x960.jpg.webp",
+        "price": "12",
+        "country": "bangladeshi",
+        "dis": "Aam Tel Ilish which is mango pickle-flavored, steamed boneless Hilsa wrapped in a pumpkin leaf and served in a clay pot with steamed rice",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 9,
+        "name": "Macher Chop",
+        "category": [
+            "fish",
+            "deep-fry"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Macher-Chop.jpg.webp",
+        "price": "2",
+        "country": "bangladeshi",
+        "dis": "Calcutta being the administrative center of the British Raj in India has adopted various techniques and recipes and added their own culinary twist. ",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    },
+    {
+        "_id" : 10,
+        "name": "Bengali Mishti Pulao",
+        "category": [
+            "sweet",
+            "rice"
+        ],
+        "img": "https://www.chefspencil.com/wp-content/uploads/Bengali-Mishti-Pulao-960x1200.jpg.webp",
+        "price": "20",
+        "country": "bangladeshi",
+        "dis": "Bengal is famous for its variety of sweets made with milk, milk fudge, and cheese. Just as famous as the sweet Misthi Pulao, Basmati is the choice of rice.",
+        "delivery": "yes",
+        "orderTime": 0,
+        "recently": false
+    }
+]

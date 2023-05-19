@@ -1,0 +1,111 @@
+[
+    {
+        "name": "SUSHI",
+        "category":["seafood", "rice"],
+        "img":"https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
+        "price":"20",
+        "country":"Japanese",
+        "dis":"Japan’s national dish, sushi, is a dish that uses vinegared rice.",
+        "delivery":"yes",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "NIGIRIZUSHI SUSHI",
+        "category":["seafood", "fish", "rice"],
+        "img":"https://cookingwithdog.com/wp-content/uploads/2017/08/nigirizushi-00.jpg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"nigirizushi is a hand-pressed varson of sushi",
+        "delivery":"yes",
+        "orderTime" : 0
+    },
+    {
+        "name": "FUGU",
+        "category":["seafood", "fish"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/fugu-min.jpeg",
+        "price":"15",
+        "country":"Japanese",
+        "dis":"Fugu is pufferfish. Despite its lethal toxins, it’s a common item eaten regularly in Japan— most notably as sashimi.",
+        "delivery":"yes",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "TONKATSU",
+        "category":["pork", "deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/tonkatsu-min.jpeg",
+        "price":"17",
+        "country":"Japanese",
+        "dis":"Tonkatsu is deep-fried Japanese pork cutlets. ",
+        "delivery":"no",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "KARAAGE",
+        "category":["chicken","deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/karaage-min.jpeg",
+        "price":"10",
+        "country":"Japanese",
+        "dis":"Karaage is Japanese fried chicken, typically made with boneless chicken thighs.",
+        "delivery":"yes",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "YAKITORI",
+        "category":["chicken","grill"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/yakitori-min.jpeg",
+        "price":"12",
+        "country":"Japanese",
+        "dis":"Yakitori is grilled chicken that’s served on skewers.",
+        "delivery":"no",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "YAKINIKU",
+        "category":["meat","grill"],
+        "img":"https://www.lowcarbingasian.com/wp-content/uploads/2019/08/Japanese-Grilled-Beef-Yakiniku-2-LowCarbingAsain-Cover.jpg",
+        "price":"25",
+        "country":"Japanese",
+        "dis":"Yakiniku translates to “grilled meat,” and is the Japanese version of barbecuing meat and vegetables.",
+        "delivery":"no",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "GYOZA",
+        "category":["meat","grill","deep-fry"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/gyoza-min.jpeg",
+        "price":"15",
+        "country":"Japanese",
+        "dis":"Gyoza is a pan-fried dumpling filled with ground meat and vegetables, and eaten with a simple dipping sauce.",
+        "delivery":"yes",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "KOBE BEEF",
+        "category":["beef"],
+        "img":"https://www.thespruceeats.com/thmb/ZGuD7lAQ4F5LEG_TqU5zuoYpqP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wagyu-beef-vs-kobe-5090422-d779f7674c164ddbac2f01630c90701f.jpg",
+        "price":"40",
+        "country":"Japanese",
+        "dis":"Kobe beef is a delicacy, and usually pretty pricey due to its high quality and strict standards.",
+        "delivery":"yes",
+        "orderTime" : 0,
+        "recently" : false
+    },
+    {
+        "name": "ODEN",
+        "category":["fish","meat","vegetable","stew"],
+        "img":"https://wandereatwrite.com/usheeche/2021/07/oden-min.jpeg",
+        "price":"45",
+        "country":"Japanese",
+        "dis":"Oden is a type of Japanese food that content one bowl of fish meat vegetables stew",
+        "delivery":"no",
+        "orderTime" : 0,
+        "recently" : false
+    }
+]

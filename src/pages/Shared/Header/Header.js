@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import img from '../../../assets/screen-1.webp'
+import img from '../../../assets/food_ex_logo-removebg-preview.png'
 
 const Header = () => {
     return (

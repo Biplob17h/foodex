@@ -4,14 +4,31 @@
 .ctext1 {
     color: #19D3AE;
 }
+.ctext2 {
+    color: #1cc246;
+}
 .ctext3 {
-    color: #80382c;
+    color: #a72020;
 }
 .cbtn1 {
     transition: .7s;
+    
     
 }
 .cbtn1:hover {
     background-color: #19D3AE;
     color: white;
 }
+
+.cubtn2{
+    text-decoration: none;
+}
+.cusCardBody{
+    background: #1f3d475e;
+    backdrop-filter: blur(5px);
+}
+.cuscard:hover .cuscard-body{
+    right: 0;
+    transition: 1.5s;
+}
+
