@@ -1,0 +1,178 @@
+[
+    {
+        "name": "John Smith",
+        "img" :"https://www.hotelierindia.com/cloud/2022/03/10/Chef-Raheman-scaled.jpg",
+        "country": "United States",
+        "sex": "Male",
+        "work_experience": "10 years",
+        "best_dish": "Grilled Salmon with Lemon Butter Sauce",
+        "good_with": "Seafood and Mediterranean cuisine",
+        "age": 35,
+        "email": "john.smith@example.com"
+    },
+    {
+        "name": "Maria Garcia",
+        "img" :"https://static2.bigstockphoto.com/7/7/2/large1500/277800481.jpg",
+        "country": "Spain",
+        "sex": "Female",
+        "work_experience": "8 years",
+        "best_dish": "Paella",
+        "good_with": "Spanish cuisine and tapas",
+        "age": 32,
+        "email": "maria.garcia@example.com"
+    },
+    {
+        "name": "Luca Rossi",
+        "img" :"https://i2-prod.chroniclelive.co.uk/incoming/article15157086.ece/ALTERNATES/s1200d/0_DKR_NEC_150918Taste_01.jpg",
+        "country": "Italy",
+        "sex": "Male",
+        "work_experience": "12 years",
+        "best_dish": "Homemade Pappardelle with Bolognese Sauce",
+        "good_with": "Italian cuisine and pasta",
+        "age": 40,
+        "email": "luca.rossi@example.com"
+    },
+    {
+        "name": "Sophie Dubois",
+        "img" :"https://thumbs.dreamstime.com/b/concentrated-female-chef-garnishing-food-kitchen-side-view-39222434.jpg",
+        "country": "France",
+        "sex": "Female",
+        "work_experience": "6 years",
+        "best_dish": "Coq au Vin",
+        "good_with": "French cuisine and desserts",
+        "age": 28,
+        "email": "sophie.dubois@example.com"
+    },
+    {
+        "name": "Takeshi Yamamoto",
+        "img" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--h96Mb9BLBn60SO-V33B16cUflkpfU6p2w&usqp=CAU",
+        "country": "Japan",
+        "sex": "Male",
+        "work_experience": "15 years",
+        "best_dish": "Sushi and Sashimi Platter",
+        "good_with": "Japanese cuisine and seafood",
+        "age": 45,
+        "email": "takeshi.yamamoto@example.com"
+    },
+    {
+        "name": "Isabella Santos",
+        "img" :"https://img.freepik.com/premium-photo/female-chef-hotel-restaurant-kitchen-holding-grilled-beef-steak-plate-with-vegetable-decoration_530697-887.jpg?w=2000",
+        "country": "Brazil",
+        "sex": "Female",
+        "work_experience": "7 years",
+        "best_dish": "Feijoada",
+        "good_with": "Brazilian cuisine and barbecued meats",
+        "age": 31,
+        "email": "isabella.santos@example.com"
+    },
+    {
+        "name": "Hans Müller",
+        "img" :"https://banner2.cleanpng.com/20180511/hdw/kisspng-chef-de-partie-cooking-hell-s-kitchen-recipe-5af5738faaf5b6.8591247015260353437003.jpg",
+        "country": "Germany",
+        "sex": "Male",
+        "work_experience": "9 years",
+        "best_dish": "Wiener Schnitzel",
+        "good_with": "German cuisine and sausages",
+        "age": 47,
+        "email": "hans.muller@example.com"
+    },
+    {
+        "name": "Luisa Fernandez",
+        "img" :"https://c8.alamy.com/comp/D7KPBC/female-chef-in-hotel-or-restaurant-kitchen-cooking-she-is-working-D7KPBC.jpg",
+        "country": "Mexico",
+        "sex": "Female",
+        "work_experience": "10 years",
+        "best_dish": "Tacos al Pastor",
+        "good_with": "Mexican cuisine and salsas",
+        "age": 32,
+        "email": "luisa.fernandez@example.com"
+    },
+    {
+        "name": "Ali Khan",
+        "img" :"https://www.todaystraveller.net/wp-content/uploads/2022/08/Untitled-8-1024x920.png",
+        "country": "Pakistan",
+        "sex": "Male",
+        "work_experience": "11 years",
+        "best_dish": "Biryani",
+        "good_with": "Pakistani cuisine and spices",
+        "age": 42,
+        "email": "ali.khan@example.com"
+    },
+    {
+        "name": "Elena Petrova",
+        "img" :"https://previews.123rf.com/images/kadmy/kadmy1504/kadmy150400034/38347555-female-chef-portrait-in-hotel-or-restaurant-kitchen.jpg",
+        "country": "Russia",
+        "sex": "Female",
+        "work_experience": "9 years",
+        "best_dish": "Beef Stroganoff",
+        "good_with": "Russian cuisine and soups",
+        "age": 28,
+        "email": "elena.petrova@example.com"
+    },
+    {
+        "name": "Ravi Patel",
+        "img" :"https://www.hotelierindia.com/cloud/2023/05/09/Executive-Chef_Ren-Ahmedabad.jpg",
+        "country": "India",
+        "sex": "Male",
+        "work_experience": "13 years",
+        "best_dish": "Chicken Tikka Masala",
+        "good_with": "Indian cuisine and curries",
+        "age": 39,
+        "email": "ravi.patel@example.com"
+    },
+    {
+        "name": "Carmen Lopez",
+        "img" :"https://static.standard.co.uk/s3fs-public/thumbnails/image/2015/04/24/11/24_kim-(Read-Only).png?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart",
+        "country": "Mexico",
+        "sex": "Female",
+        "work_experience": "9 years",
+        "best_dish": "Guacamole",
+        "good_with": "Mexican cuisine and traditional dips",
+        "age": 31,
+        "email": "carmen.lopez@example.com"
+    },
+    {
+        "name": "Antonio Ferrari",
+        "img" :"https://media.istockphoto.com/id/959584298/photo/he-is-a-master-chef.jpg?s=612x612&w=0&k=20&c=OZYzDtruNQXU8il_9YiD1y3rwU3YEjmm6A4Uxt7hri8=",
+        "country": "Italy",
+        "sex": "Male",
+        "work_experience": "14 years",
+        "best_dish": "Tiramisu",
+        "good_with": "Italian cuisine and desserts",
+        "age": 36,
+        "email": "antonio.ferrari@example.com"
+    },
+    {
+        "name": "Marta Gonzalez",
+        "img" :"https://previews.123rf.com/images/kzenon/kzenon1109/kzenon110900102/10448844-female-chef-in-a-restaurant-or-hotel-kitchen-cooking-delicious-food-she-is-decorating-the-dishes.jpg",
+        "country": "Spain",
+        "sex": "Female",
+        "work_experience": "6 years",
+        "best_dish": "Gazpacho",
+        "good_with": "Spanish cuisine and cold soups",
+        "age": 27,
+        "email": "marta.gonzalez@example.com"
+    },
+    {
+        "name": "James Johnson",
+        "img" :"https://tajdining.com/uploads/chefs/small/10_small_2021_03_19_06_24_55.jpg",
+        "country": "United States",
+        "sex": "Male",
+        "work_experience": "10 years",
+        "best_dish": "Barbecue Ribs",
+        "good_with": "American cuisine and grilled meats",
+        "age": 39,
+        "email": "james.johnson@example.com"
+    },
+    {
+        "name": "Hiroshi Nakamura",
+        "img" :"https://media-cdn.tripadvisor.com/media/photo-s/11/90/63/60/chef-presents-signature.jpg",
+        "country": "Japan",
+        "sex": "Male",
+        "work_experience": "11 years",
+        "best_dish": "Tempura",
+        "good_with": "Japanese cuisine and deep-fried dishes",
+        "age": 28,
+        "email": "hiroshi.nakamura@example.com"
+    }
+]

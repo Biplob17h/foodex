@@ -1,9 +1,11 @@
 import React from 'react';
+import OrderPage from './OrderPage';
+
 
 const Order = () => {
     return (
-        <div>
-            <h1>this is order page</h1>
+        <div className='mb-96'>
+            <OrderPage></OrderPage>
         </div>
     );
 };

@@ -9,11 +9,11 @@ const FrontPage = () => {
     return (
         <div className="hero min-h-screen" style={{ backgroundImage: `url("https://ewenbell.com/10k/hdcache/Special/honeycomb-6878.jpg")` }}>
             <div>
-                <h1 className='text-5xl font-serif font-bold'>Wellcome To</h1>
+                <h1 className='font-serif font-bold md:text-5xl '>Wellcome To</h1>
             </div>
-            <div className="hero-overlay bg-opacity-60 flex md:justify-end">
-                <Link to='/home'><button className='btn btn-ghost w-[200px] text-white mt-5 cbtn1 mr-5'>Go To Home</button></Link>
-                <Link to='/home/order'><button className='btn btn-ghost w-[200px] text-white mt-5 cbtn1 mr-5'>Order Food</button></Link>
+            <div className="hero-overlay bg-opacity-60 flex justify-between  md:justify-end">
+                    <Link to='/home'><button className='btn btn-ghost text-white cbtn1 md:w-[200px]  md:mt-5  md:mr-5'>Go To Home</button></Link>
+                    <Link to='/home/order'><button className='btn btn-ghost text-white cbtn1 md:w-[200px]  md:mt-5  md:mr-5'>Order Food</button></Link>
             </div>
             <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">

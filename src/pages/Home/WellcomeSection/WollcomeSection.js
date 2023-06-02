@@ -10,7 +10,7 @@ const WollcomeSection = () => {
             </div>
             {/* for big div */}
             <div className='md:w-1/2 text-center md:text-start'>
-                <h1 className='text-4xl md:text-7xl font-bold opacity-50 ctext3'>Wollcome To</h1>
+                <h1 className='text-4xl md:text-7xl font-bold opacity-50 ctext1'>Wollcome To</h1>
                 <h1 className='text-5xl md:text-8xl font-bold mt-2 ctext1'>Food Ex</h1>
                 <div className='hidden md:block' >
                     <h1 className='mt-5'>

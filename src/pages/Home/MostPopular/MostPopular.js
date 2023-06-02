@@ -44,15 +44,15 @@ const MostPopular = ({  setViewType }) => {
                     {
                         foods?.map(food =>
                             <div key={food._id}>
-                                <div className="card w-96 bg-base-100 cushover1  shadow-xl mt-5">
-                                    <figure><img className="w-[300px] h-[300px] rounded-md" src={food?.img} alt="Shoes" /></figure>
+                                <div className="card w-full bg-base-100 cushover1  shadow-xl mt-5">
+                                    <img className="w-full h-[300px] rounded-md" src={food?.img} alt="Shoes" />
                                     <div className="card-body text-start">
                                         <h2 className="card-title ">{food?.name}</h2>
                                         <p className=""><span className="font-semibold">Price</span> : {food?.price}$</p>
                                         <p className=""><span className="font-semibold">Country</span> : {food?.country}</p>
                                         <p className=""><span className="font-semibold">Total Order</span> : {food?.orderTime}</p>
                                         <div className="card-actions justify-end">
-                                            <button className="btn btn-primary">Order Now</button>
+                                            <button className="btn btn-primary mt-5">Order Now</button>
                                         </div>
                                     </div>
                                 </div>

@@ -15,12 +15,7 @@ const Home = () => {
     return (
         <div>
             <WollcomeSection></WollcomeSection>
-            {
-                viewType === "today" ?
-                    <Recently setViewType={setViewType}></Recently>
-                    :
-                    <MostPopular setViewType={setViewType}></MostPopular>
-            }
+            <Recently setViewType={setViewType}></Recently>
             <FoodQuality></FoodQuality>
             <Chef></Chef>
             <Environment></Environment>
